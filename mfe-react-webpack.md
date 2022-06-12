@@ -1,4 +1,4 @@
-# Getting started with Micro-Frontend and Webpack 5 Module Federation
+# Getting started with React Micro-Frontend and Webpack 5 Module Federation
 
 In the article, we will straight-up dive into the technical implementation of the Micro-Frontend app using ReactJS and Webpack 5 Module Federation.
 
