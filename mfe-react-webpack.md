@@ -781,9 +781,9 @@ Thanks for reading!
 
 <!-- Links to images -->
 
-[6]: ./images/mfe-app.png
-[7]: ./images/container-ss-1.png
-[8]: ./images/header.png
-[9]: ./images/blog.png
-[10]: ./images/container-with-header.png
-[11]: ./images/container-header-blog.png
+[6]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/mfe-app.png
+[7]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/container-ss-1.png
+[8]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/header.png
+[9]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/blog.png
+[10]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/container-with-header.png
+[11]: https://raw.githubusercontent.com/blackhatplay/mfe-example/master/images/container-header-blog.png
