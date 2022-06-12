@@ -766,6 +766,7 @@ root.render(
 ```
 
 now let's go to the `/blog` route, we should be able to see this.
+
 ![container-header-blog][11]
 
 At this point you might notice that navigation in the header is not working as expected, so the thing we currently have two instances of browser router in our application and route change in `Header` MFE is not reflected in the `Container` app. To fix this we will need some additional configuration so that our MFE can communicate with each other when there is a route change.
