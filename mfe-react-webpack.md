@@ -773,7 +773,7 @@ At this point you might notice that navigation in the header is not working as e
 
 I will cover this in the next article.
 
-Thanks for reading!
+Thanks for reading!!!
 
 <!-- Links to refrences -->
 
